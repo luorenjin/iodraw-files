@@ -375,7 +375,7 @@
           <mxGeometry x="70" y="2480" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Wwsn1psZQJ3idxz3focl-230" value="数据统计到资金台账" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="Wwsn1psZQJ3idxz3focl-3" vertex="1">
-          <mxGeometry x="90" y="1910" width="170" height="90" as="geometry" />
+          <mxGeometry x="95" y="1910" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Wwsn1psZQJ3idxz3focl-231" value="数据统计到资金台账" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="Wwsn1psZQJ3idxz3focl-3" vertex="1">
           <mxGeometry x="85" y="3460" width="170" height="90" as="geometry" />
