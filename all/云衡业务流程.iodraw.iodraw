@@ -439,7 +439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wwsn1psZQJ3idxz3focl-50" value="资产部门负责人审批" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="Wwsn1psZQJ3idxz3focl-20" vertex="1">
-          <mxGeometry x="60" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Wwsn1psZQJ3idxz3focl-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wwsn1psZQJ3idxz3focl-20" source="Wwsn1psZQJ3idxz3focl-48" target="Wwsn1psZQJ3idxz3focl-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
