@@ -1,0 +1,399 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="24.7.17">
+  <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
+    <mxGraphModel dx="2474" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-6" target="XMCYOdMlis6LZDi_tLb9-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-1" value="&lt;h1&gt;项目管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="58" y="142" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-8" target="XMCYOdMlis6LZDi_tLb9-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-216" y="266" />
+              <mxPoint x="-216" y="266" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-6" value="&lt;h1&gt;市场管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-257" y="142" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-8" value="&lt;h3&gt;标讯管理&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;h1&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-396" y="466" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-2" value="&lt;h1&gt;财务管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="418" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-4" value="&lt;h1&gt;资料管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="725" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-13" target="XMCYOdMlis6LZDi_tLb9-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-252" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-13" value="&lt;h3&gt;市场线索&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-398" y="373" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-181" y="204" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-16" value="&lt;h3&gt;分公司申请&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;h1&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-398" y="553" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-21" target="XMCYOdMlis6LZDi_tLb9-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-21" value="&lt;h3&gt;项目立项&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-77" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-23" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;功能：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1.录入基本信息&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;审批流：&lt;/span&gt;&lt;span&gt;不含&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;数据权限：&lt;/span&gt;&lt;/div&gt;创建人、部门负责人、部分岗位可视" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-77" y="424" width="202" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.892;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-24" target="XMCYOdMlis6LZDi_tLb9-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="218" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="167" y="716" />
+              <mxPoint x="167" y="207" />
+              <mxPoint x="165" y="207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-24" value="&lt;h3&gt;报告管理&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-77" y="689" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-26" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;功能：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1.报告取号&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2.上传初稿&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3.技术审批&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;审批流：含&lt;/span&gt;&lt;span&gt;，流程结束抄送创建人&lt;/span&gt;&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;数据权限：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;创建人、部门负责人、部分岗位可视" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-71" y="767" width="202" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-27" target="XMCYOdMlis6LZDi_tLb9-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="142" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-27" value="&lt;h3&gt;项目合同管理&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-74" y="534" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-29" value="功能：&lt;br&gt;1.取合同编号&lt;br&gt;2.合同评审审批&lt;br&gt;审批流：含&amp;nbsp;，流程结束抄送创建人&lt;div&gt;数据权限：&lt;/div&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-74" y="594" width="202" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="729" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-115" y="917" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-30" value="&lt;h3&gt;上传初稿&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-86" y="887" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-31" value="&lt;div&gt;&lt;span&gt;功能：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;1.上传初稿&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;审批流：不含&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;数据权限：&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;创建人可视" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-71" y="965" width="82" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-33" target="XMCYOdMlis6LZDi_tLb9-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-129" y="716" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-122" y="1087" />
+              <mxPoint x="-122" y="719" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-33" value="&lt;h3&gt;工作底稿&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-86" y="1057" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-35" value="&lt;h3&gt;&lt;font color=&quot;#ff66b3&quot;&gt;合同作废&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="1151" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-36" value="&lt;h3&gt;&lt;font color=&quot;#ff66b3&quot;&gt;报告作废&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-92" y="1232" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-38" target="XMCYOdMlis6LZDi_tLb9-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444" y="207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-38" value="&lt;h3&gt;开票申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="339" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-41" value="功能：&lt;br&gt;1.划分业务项目与非项目申请&lt;br&gt;2.设定有效状态被项目立项表单&lt;br&gt;统计已开票金额&lt;br&gt;3.开票金额统计到资金台账（待设立）&lt;br&gt;审批流：含 ，开票完成，流程结束抄送创建人&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="410" width="253" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-42" target="XMCYOdMlis6LZDi_tLb9-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="487" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-42" value="&lt;h3&gt;收款登记&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="246" y="544" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-43" value="功能：&lt;br&gt;1.业务人员发起申请 财务人员确认&lt;br&gt;2.划分业务项目与非项目申请（例如退税）&lt;br&gt;3.收款金额统计到资金台账（待设立）&lt;br&gt;审批流：含&amp;nbsp;，流程结束抄送创建人&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="248" y="613" width="236" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-45" target="XMCYOdMlis6LZDi_tLb9-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="508" y="232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-45" value="&lt;h3&gt;付款申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="246" y="721" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-47" value="功能：&lt;br&gt;1.业务人员发起申请 走审批 财务人员确认&lt;br&gt;2.划分业务项目与非项目申请&lt;br&gt;3.收款金额统计到资金台账（待设立）&lt;br&gt;审批流：含&amp;nbsp;，流程结束抄送创建人&lt;br&gt;创建人打印流程单找财务付款&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="785" width="231" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.933;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-48" target="XMCYOdMlis6LZDi_tLb9-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-48" value="&lt;h3&gt;费用报销申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="246" y="923" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-50" value="功能：&lt;br&gt;1.业务人员发起申请 走审批 财务人员确认&lt;br&gt;2.划分业务项目与非项目申请&lt;br&gt;3.报销金额统计到资金台账（待设立）&lt;br&gt;审批流：含&amp;nbsp;，流程结束抄送创建人&lt;br&gt;创建人打印流程单找财务付款&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="248" y="998" width="231" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-51" target="XMCYOdMlis6LZDi_tLb9-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="1166" />
+              <mxPoint x="230" y="369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-51" value="&lt;h3&gt;发票作废&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="242" y="1136" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-53" value="功能：&lt;br&gt;1.业务人员发起申请 上传作废附件 财务人员确认&lt;br&gt;2.更新资金台账（待设立）&lt;br&gt;审批流：含&amp;nbsp;，流程结束抄送创建人&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="1227" width="267" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-57" target="XMCYOdMlis6LZDi_tLb9-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="791" y="203" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="791" y="369" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-57" value="&lt;h3&gt;公告管理&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="648" y="339" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-59" value="功能：&lt;br&gt;1.行政发布 显示在系统首页公告&lt;br&gt;审批流：含&amp;nbsp;&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="643" y="433" width="202" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.95;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-60" target="XMCYOdMlis6LZDi_tLb9-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="821" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="839" y="558" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-60" value="&lt;h3&gt;公司制度&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="648" y="528" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-61" value="功能：&lt;br&gt;1.行政发布 显示在系统首页公告&lt;br&gt;审批流：含&amp;nbsp;&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="648" y="608" width="202" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-63" value="&lt;h1&gt;行政管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1081" y="142" width="258" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-64" target="XMCYOdMlis6LZDi_tLb9-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1077" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-64" value="&lt;h3&gt;用章申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="932" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-66" value="功能：&lt;br&gt;1.选择已通过审批的项目合同、报告用印&lt;br&gt;审批流：含 简化&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="927" y="424" width="224" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-67" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1223" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-67" value="&lt;h3&gt;合同审批&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="935" y="534" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-68" value="功能：&lt;br&gt;1.非项目业务合同审批流程&lt;br&gt;审批流：含&amp;nbsp;&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="932" y="615" width="202" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-70" target="XMCYOdMlis6LZDi_tLb9-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1175" y="198" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1235" y="758" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-70" value="&lt;h3&gt;资料外用申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="935" y="728" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-71" value="功能：&lt;br&gt;1.创建人借用证件外出办理业务&lt;br&gt;审批流：含&amp;nbsp;&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="935" y="815" width="202" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1251" y="195" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1251" y="953" />
+              <mxPoint x="1251" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-73" value="&lt;h3&gt;证书调入&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="932" y="923" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-75" value="功能：&lt;br&gt;1.创建人证件调入&lt;br&gt;审批流：含&amp;nbsp;&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="932" y="1008" width="202" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-76" target="XMCYOdMlis6LZDi_tLb9-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-76" value="&lt;h3&gt;物料申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="935" y="1095" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-78" value="功能：&lt;br&gt;1.常用物料的分配&lt;br&gt;审批流：含&amp;nbsp;&lt;br&gt;数据权限：&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;创建人、部门负责人、部分岗位可视&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="930" y="1177" width="202" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-79" value="&lt;h1&gt;人事管理&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1611" y="145.5" width="258" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-80" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1631" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-80" value="&lt;h3&gt;员工请假申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1436" y="326" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-82" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1648" y="209" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1633" y="511" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-82" value="&lt;h3&gt;员工请假申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1438" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-85" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="XMCYOdMlis6LZDi_tLb9-82" vertex="1">
+          <mxGeometry x="84" y="13" width="32" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-84" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1654" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-84" value="&lt;h3&gt;员工外出申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1442" y="594" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-87" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-87" value="&lt;h3&gt;员工入职申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1442" y="713" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XMCYOdMlis6LZDi_tLb9-90" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1675.5" y="314.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-90" value="&lt;h3&gt;员工转正申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1442" y="829" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-92" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1675.5" y="408.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-92" value="&lt;h3&gt;员工岗位调动&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1442" y="923" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.655;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-94" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1671.5" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-94" value="&lt;h3&gt;员工离职申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1438" y="1034.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-96" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1777.9899999999998" y="301.48400000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-96" value="&lt;h3&gt;员工离职处置&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1436" y="1136" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.806;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-98" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1777.9899999999998" y="411.744" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-98" value="&lt;h3&gt;新员工考核表&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1436" y="1246.26" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.853;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-100" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1773.9899999999998" y="512.004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-100" value="&lt;h3&gt;员工考勤管理&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1432" y="1346.52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.907;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-102" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1777.9899999999998" y="613.004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-102" value="&lt;h3&gt;员工补卡申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1436" y="1447.52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.946;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-104" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1777.9899999999998" y="721.004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-104" value="&lt;h3&gt;员工合同档案&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1436" y="1555.52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.965;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-106" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1777.9899999999998" y="820.004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-106" value="&lt;h3&gt;员工合同续约&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1436" y="1654.52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="XMCYOdMlis6LZDi_tLb9-108" target="XMCYOdMlis6LZDi_tLb9-79" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1849.9899999999998" y="269.98400000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-108" value="&lt;h3&gt;固定资产采购申请&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1438" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-110" value="&lt;h3&gt;&lt;font color=&quot;#ff66b3&quot;&gt;资金台账&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="246" y="1355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMCYOdMlis6LZDi_tLb9-111" value="注：方框内黑色为已有表单，粉色未待开发表单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-407" y="57" width="262" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
